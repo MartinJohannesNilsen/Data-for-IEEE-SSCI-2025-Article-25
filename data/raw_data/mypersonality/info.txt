@@ -1,0 +1,2 @@
+This dataset is a portion of the MyPersonality dataset, concisting of a little less than 10k samples
+One token to know about is the use of "*PROPNAME*", which is used for anonymizing named entities
